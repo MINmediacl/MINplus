@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://firebasestorage.googleapis.com/v0/b/tuvalutv-a91dd.appspot.com/o/TEST%20CARD%2FM3U8%2F1080P.m3u8?alt=media&token=017efa63-368c-4b24-926c-ea54c8e04a01
+#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=1920x1080,CODECS="avc1.42e00a,mp4a.40.2"
+https://firebasestorage.googleapis.com/v0/b/tuvalutv-a91dd.appspot.com/o/TEST%20CARD%2FM3U8%2F720P.m3u8?alt=media&token=3e25e00a-d193-44ce-a5a2-c7dda1486eb0
+#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=2340x1080,CODECS="avc1.42e00a,mp4a.40.2"
+https://firebasestorage.googleapis.com/v0/b/tuvalutv-a91dd.appspot.com/o/TEST%20CARD%2FM3U8%2FMOVIL.m3u8?alt=media&token=db029322-95c9-4f1b-8637-aefc312a3057
+#EXT-X-STREAM-INF:BANDWIDTH=64000,CODECS="mp4a.40.5"
+https://firebasestorage.googleapis.com/v0/b/tuvalutv-a91dd.appspot.com/o/TEST%20CARD%2FM3U8%2Faudio.m3u8?alt=media&token=7f1c061f-8e03-417b-ba2e-ed6cdf08d0cd
