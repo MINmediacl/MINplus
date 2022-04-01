@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="1" tvg-name="MIN1" tvg-logo="", MIN+ 1
+https://raw.githubusercontent.com/el20media/MINplus/CH/MIN1.m3u8
